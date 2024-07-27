@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation_Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="AutomationTest(failed)">
+    <classes>
+      <class name="testng.Class_12Shaadi_url">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="verify_looking_dropdwon"/>
+        </methods>
+      </class> <!-- testng.Class_12Shaadi_url -->
+    </classes>
+  </test> <!-- AutomationTest(failed) -->
+</suite> <!-- Failed suite [Automation_Suite] -->

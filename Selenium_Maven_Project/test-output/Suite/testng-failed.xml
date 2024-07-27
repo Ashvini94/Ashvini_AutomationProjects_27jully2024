@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testNG_practiseXML.Class_005">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="verify_looking_dropdwon"/>
+        </methods>
+      </class> <!-- testNG_practiseXML.Class_005 -->
+      <class name="testNG_practiseXML.Class_004">
+        <methods>
+          <include name="launch_Browser"/>
+          <include name="select_dropdown_option"/>
+          <include name="close_window"/>
+        </methods>
+      </class> <!-- testNG_practiseXML.Class_004 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

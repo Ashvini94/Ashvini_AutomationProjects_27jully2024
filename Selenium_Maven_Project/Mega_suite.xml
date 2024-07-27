@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Mega_suite">
+	<suite-files>
+	
+	<suite-file path="Jeevansathi_url.xml">
+	
+	</suite-file>
+	
+	<suite-file path="shaadi_url.xml">
+	
+	</suite-file>
+	
+	
+	
+	
+	</suite-files>
+
+</suite>

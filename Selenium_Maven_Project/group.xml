@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AutomationSuite">
+  <test thread-count="5" name="AutomationTest">
+  
+  <groups>
+  
+  	<run>
+  	
+  	<!-- <include name="Regression testing"></include>  -->
+  	
+  	<exclude name="Smoke testing"></exclude>
+  		    
+  	
+  	</run>
+  
+  </groups>
+  
+    <classes>
+      <class name="testng.Class_008Group"/>
+    </classes>
+  </test> <!-- AutomationTest -->
+</suite> <!-- AutomationSuite -->

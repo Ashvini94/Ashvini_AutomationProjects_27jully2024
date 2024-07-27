@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-13T16:45:12Z" name="Default suite" finished-at="2024-07-13T16:45:16Z" duration-ms="4056">
+    <groups>
+    </groups>
+    <test started-at="2024-07-13T16:45:12Z" name="Default test" finished-at="2024-07-13T16:45:16Z" duration-ms="4056">
+      <class name="page_objectmodel_practise.Execution_Page">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:page_objectmodel_practise.Execution_Page@5f354bcf]" started-at="2024-07-13T16:45:07Z" name="beforeSuite" finished-at="2024-07-13T16:45:12Z" duration-ms="5862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="verify_user_signin()[pri:1, instance:page_objectmodel_practise.Execution_Page@5f354bcf]" started-at="2024-07-13T16:45:12Z" name="verify_user_signin" finished-at="2024-07-13T16:45:14Z" duration-ms="1128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_user_signin -->
+        <test-method signature="verify_user_credentials()[pri:2, instance:page_objectmodel_practise.Execution_Page@5f354bcf]" started-at="2024-07-13T16:45:14Z" name="verify_user_credentials" finished-at="2024-07-13T16:45:16Z" duration-ms="2909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_user_credentials -->
+      </class> <!-- page_objectmodel_practise.Execution_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

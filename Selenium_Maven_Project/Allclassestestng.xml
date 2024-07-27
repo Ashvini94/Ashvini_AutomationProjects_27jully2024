@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testng.Class_10Parent_child_window"/>
+      <class name="testng.Class_003Priority"/>
+      <class name="testng.Class_006Enabled"/>
+      <class name="testng.Class_12Shaadi_url"/>
+      <class name="testng.Class_009RailyatriSite"/>
+      <class name="testng.Class_005Description"/>
+      <class name="testng.Class_002Afterannotations"/>
+      <class name="testng.Class_001BeforeAnnotations"/>
+      <class name="testng.Class_008Group"/>
+      <class name="testng.Class_007Dependsonmethod"/>
+      <class name="testng.Class_11Selectoption_dropdown_JeevansathiUrl"/>
+      <class name="testng.Class_004Invocation_count"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
